@@ -1,5 +1,5 @@
 /*
-Please answer the questions below :
+Please answer the questions below: 
 
 1. Apakah semua solusi bisa di eksekusi? Bagaimana caranya mem-verifikasinya?
    Semua dapat di eksekusi, dengan alur program yang berbeda2, cara mengeceknya dengan melihat hasil dari concole.log apakah sesuai atau tidak
