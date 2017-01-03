@@ -36,7 +36,11 @@ Please answer the questions below :
     saya akan memilih nomor 4, karena paling mudah untuk dimengerti dan juga jumlah barisnya paling sedikit.
 
 9. Apakah dampak dari pola atau pattern tersebut terhadap performa aplikasi? Bagaimana kamu mengukur dampaknya?
+    dampak dari pola pada performa aplikasinya adalah, semakin ringkas codenya semakin cepat performa aplikasinya.
+    jadi yang paling ringkas, dan memiliki performa terbaik adalah roman_numerals_4.js
 
 10. Apakah dampak dari pola atau pattern terhadap maintenance code? Kenapa kamu bisa yakin?
-
+    dampak dari pola suatu code, tidak bergantung singkat atau panjangnya suatu code.
+    namun alangkah baiknya apabila suatu code diberikan comment penjelasan.
+    code yang terlalu panjang dan tidak bersifat dinamis, akan sulit dilakukan penambahan dan maintenance.
 */
